@@ -10,4 +10,4 @@ importlib
 luminesce-sdk-preview >= 1.11.140, < 3
 lusidtools >= 1.0.0
 lusid-scheduler-sdk-preview
-fbnconfig==0.0.33
+fbnconfig==0.1.63
